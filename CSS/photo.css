@@ -1,0 +1,7 @@
+#photo_profil {
+    border: 1px solid black;
+    width: 13%;
+    border-radius: 50%;
+    box-shadow: -5px 5px 10px black;
+    margin-top: 50px;
+}
