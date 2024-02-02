@@ -17,3 +17,13 @@ body {
     width: 1160px;
     background-color: #2c1d27;
 }
+
+#partie_3 {
+    padding-top: 1px;
+    width: 370px;
+    background-color: #782221;
+}
+
+#titre {
+    background-color: #dbc2a4;
+}
