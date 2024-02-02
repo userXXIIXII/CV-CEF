@@ -6,21 +6,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
 
 /* PARTIE 1 */
-#header {
+.p1__header {
     display: flex;
     flex-direction: column;
     align-items: center;
     color: white;
 }
 
-#prenom_nom {
+.p1__prenom {
     font-family: 'Lato', sans-serif;
     font-weight: bolder;
     text-transform: uppercase;
     font-size: 150%;
 }
 
-#status {
+.p1__status {
     font-family: 'Raleway', sans-serif;
     font-size: 120%;
 }
@@ -31,7 +31,7 @@ a {
     text-decoration: none;
   }
   
-#partie_2 {
+.p2 {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -39,23 +39,23 @@ a {
     font-size: 120%;
 }
 
-#adresse {
+.p2__adresse {
     margin-left: 20px;
     font-style: italic;
 }
 
-#mail {
+.p2__mail {
     margin-right: 110px;
     font-style: italic;
 }
 
-#numero {
+.p2__numero {
     margin-right: 20px;
     font-style: italic;
 }
 
 /* PARTIE 3 */
-#titre {
+.p3__titre {
     font-family: 'Lato', sans-serif;
     font-weight: bold;
     height: 30px;
@@ -63,11 +63,11 @@ a {
     margin-top: 20px;
 }
 
-#titrep3 {
+.p3__titre2 {
     margin-left: 20px;
 }
 
-#presentation {
+.p3__presentation {
     font-family: 'Raleway', sans-serif;
     color: white;
     width: 310px;
@@ -77,13 +77,13 @@ a {
     text-indent: 30px;
 }
 
-#langues {
+.p3__langues {
     font-family: 'Raleway', sans-serif;
     color: white;
     font-size: 120%;
 }
 
-#hobbies {
+.p3__hobbies {
     font-family: 'Raleway', sans-serif;
     color: white;
     font-size: 120%;
@@ -91,12 +91,12 @@ a {
 
 /* PARTIE 4 */
 
-#titre_p4 {
+.p4__titre2 {
     font-family: 'Lato', sans-serif;
     font-weight: bold;
 }
 
-#titrep4 {
+.p4__titre {
     font-family: 'Lato', sans-serif;
     font-weight: bold;
     background-color: #dbc2a4;
@@ -104,7 +104,8 @@ a {
     margin-right: 20px;
 }
 
-#contenu {
+
+.p4__contenu {
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
 }

@@ -1,9 +1,10 @@
-#photo_profil {
+.p1__photo_profil {
     border: 1px solid black;
     width: 13%;
     border-radius: 50%;
     box-shadow: -5px 5px 10px black;
     margin-top: 50px;
+    margin-left: 515px;
 }
 
 #linkedin {
@@ -11,3 +12,4 @@
     margin-top: 40px;
     margin-left: 475px;
 }
+
