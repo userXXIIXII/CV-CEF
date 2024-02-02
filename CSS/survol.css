@@ -1,0 +1,15 @@
+#t4:hover{
+    border-right: 1px solid black;
+}
+
+#photo_profil:hover{
+    cursor: zoom-in;
+}
+
+#linkedin:hover {
+    opacity: 0.8;
+}
+
+a:hover{
+    text-decoration: underline;
+}
