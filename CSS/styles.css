@@ -19,14 +19,14 @@ body {
     background-color: #2c1d27;
 }
 
-#partie_3 {
+.p3 {
     padding-top: 1px;
     width: 370px;
     height: 990px;
     background-color: #782221;
 }
 
-#titre {
+.p3__titre {
     background-color: #dbc2a4;
 }
 

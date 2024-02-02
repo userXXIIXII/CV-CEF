@@ -55,7 +55,7 @@ a {
 }
 
 /* PARTIE 3 */
-#titre {
+.p3__titre {
     font-family: 'Lato', sans-serif;
     font-weight: bold;
     height: 30px;
@@ -63,11 +63,11 @@ a {
     margin-top: 20px;
 }
 
-#titrep3 {
+.p3__titre2 {
     margin-left: 20px;
 }
 
-#presentation {
+.p3__presentation {
     font-family: 'Raleway', sans-serif;
     color: white;
     width: 310px;
@@ -77,13 +77,13 @@ a {
     text-indent: 30px;
 }
 
-#langues {
+.p3__langues {
     font-family: 'Raleway', sans-serif;
     color: white;
     font-size: 120%;
 }
 
-#hobbies {
+.p3__hobbies {
     font-family: 'Raleway', sans-serif;
     color: white;
     font-size: 120%;
