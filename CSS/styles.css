@@ -1,5 +1,6 @@
 body {
     width: 1160px;
+    height: 1411px;
     border: 2px solid black;
     margin-left: auto;
     margin-right: auto; 
@@ -21,6 +22,7 @@ body {
 #partie_3 {
     padding-top: 1px;
     width: 370px;
+    height: 990px;
     background-color: #782221;
 }
 
@@ -30,7 +32,11 @@ body {
 
 #partie_4 {
     margin-left: 390px;
-    margin-top: -587px;
+    margin-top: -990px;
 }
 
-
+#partie_5 {
+    background-color: #782221;
+    height: 140px;
+    margin-top: 173px;
+}
