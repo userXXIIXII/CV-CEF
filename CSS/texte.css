@@ -53,3 +53,40 @@ a {
     margin-right: 20px;
     font-style: italic;
 }
+
+/* PARTIE 3 */
+#titre {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    height: 30px;
+    width: 330px;
+    margin-top: 20px;
+}
+
+#titrep3 {
+    margin-left: 20px;
+}
+
+#presentation {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    width: 310px;
+    margin-left: 20px;
+    text-align: justify;
+    font-size: 120%;
+    text-indent: 30px;
+}
+
+#langues {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 120%;
+}
+
+#hobbies {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 120%;
+}
+
+
