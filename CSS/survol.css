@@ -1,12 +1,12 @@
-#t4:hover{
+.p4__t2:hover{
     border-right: 1px solid black;
 }
 
-#photo_profil:hover{
+.p1__photo_profil:hover{
     cursor: zoom-in;
 }
 
-#linkedin:hover {
+.p5__linkedin:hover {
     opacity: 0.8;
 }
 
